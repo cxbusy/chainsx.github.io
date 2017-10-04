@@ -5,9 +5,9 @@ description: Erblocker的NoPad计划
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Erblocker
+username: NoPad
 user_description: 旨在改善云课堂教学模式
-user_title: NoPad
+user_title: Erblocker
 email: chainsx.outlook.com
 github_username:  chainsx
 
