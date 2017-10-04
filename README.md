@@ -1,74 +1,27 @@
-# Particle Jekyll Theme
+# Erblocker的NoPad计划
 
-![](./particle.jpg)
+## 欢迎访问NoPad主页，在这里，你可以找到关于NoPad计划的相关信息
 
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+# [Erblocker](https://github.com/Erblocker)
 
-The Theme features:
+# 关于Erblocker：
+   
+   Erblocker是由cgoxopx发起的一场关于云课堂改革的方案计划，旨在提高[睿易云](http://www.ruiyiyun.com)的质量，
+   
+   所以，这里仅提供学术交流。
+   
+## 我们希望睿易云课堂越办越好
 
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
+# Erblocker的NoPad涉及的项目
 
-## Basic Setup
+ 
+ * YRSSF(大佬级别作品)  | [稳定版](https://github.com/Erblocker/YRSSF) | [开发版](https://github.com/cgoxopx/YRSSF) | [特别版](https://github.com/anti-ry/YRSSF)
+  
+  
+  * Pandora-magicbox(根据cgoxopx以及DX_Chaos(Dixin_Ren)的思路实现) | [安卓版](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/ARM/Android) | [Debian/Ubuntu](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/ARM/Linux) | [适用于mipsel的路由器版本](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/mipsel/openwrt)
+   
+   
+ * ThetaTheta(基于YRSSF的去中心化视频直播平台) | [开发中](https://github.com/Erblocker/ThetaTheta) |
+   
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Particle Theme](https://github.com/nrandecker/particle/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
-
-## Site and User Settings
-
-You have to fill some informations on `_config.yml` to customize your site.
-
-```
-# Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
-
-# User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-```
-
-**Don't forget to change your url before you deploy your site!**
-
-## Color and Particle Customization
-- Color Customization
-  - Edit the sass variables
-- Particle Customization
-  - Edit the json data in particle function in app.js
-  - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
-
-## Running the blog in local
-
-In order to compile the assets and run Jekyll on local you need to follow those steps:
-
-- Install [NodeJS](https://nodejs.org/)
-- Run `npm install`
-- Run `gulp`
-
-## Questions
-
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
-
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
-
-## Credits
-
-This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+# 感谢Dixin_Ren的nopad.org域名提供
