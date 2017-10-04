@@ -13,6 +13,6 @@ github_username:  chainsx
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "pzhrhlx@gmail.com"
 
 exclude: ['package.json', 'src' , 'node_modules']
